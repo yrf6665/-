@@ -1,0 +1,6 @@
+fastapi>=0.110
+uvicorn>=0.29
+httpx>=0.27          # 测试用（TestClient 依赖它）
+pytest>=8.0
+openai>=1.40         # 第 4 周 AI 需求助手 / 第 5 周智能分类会用到
+python-dotenv>=1.0

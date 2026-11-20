@@ -1,0 +1,6 @@
+.env
+__pycache__/
+.pytest_cache/
+agent_log.txt
+data/*.db
+.venv/
